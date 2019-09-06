@@ -1,0 +1,27 @@
+{
+  "name": "serverless-cognito-user-setup",
+  "version": "0.0.5",
+  "description": "Serverless plugin for creating users in aws cognito",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git", "url" : "https://github.com/adben002/serverless-cognito-user-setup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2",
+    "serverless-types ": "^0",
+    "tslint": "^5",
+    "aws-sdk": "^2",
+    "rimraf": "^2",
+    "@types/node": "^8"
+  },
+  "files": [
+    "dist/src/"
+  ]
+}

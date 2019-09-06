@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "eg2.tslint",
+        "streetsidesoftware.code-spell-checker",
+        "HookyQR.beautify",
+        "cmstead.jsrefactor",
+        "dbaeumer.jshint",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "emeraldwalk.runonsave"
+    ]
+}
